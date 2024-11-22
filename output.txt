@@ -1,0 +1,1 @@
+The current weather in San Francisco is partly cloudy with a temperature of 16.7°C. Tripled, the temperature is approximately 50.1°C.
